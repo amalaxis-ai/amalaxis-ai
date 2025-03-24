@@ -46,8 +46,8 @@ We combine innovation, design, and deep tech expertise to deliver smart, scalabl
 ## 📫 Contact Us
 
 - 📧 Email: [contact@amalaxis.com](mailto:contact@amalaxis.com)  
-- 🌐 Website: [https://www.amalaxis.com](https://amalaxis.com) *(if available)*  
-- 🔗 LinkedIn: [AmalAxis](https://linkedin.com/company/amalaxis) *(optional)*  
+- 🌐 Website: [https://www.amalaxis.com](https://amalaxis.com)   
+- 🔗 LinkedIn: [AmalAxis](https://linkedin.com/company/amalaxis) 
 
 ---
 
